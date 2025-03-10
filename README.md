@@ -8,7 +8,7 @@
 - Circuit Breaker with Resilience4j (instead of Hystrix)
 - Distributed Tracing with Zipkin
 
-Microservices with Spring Cloud - V2
+Microservices with Spring Cloud
 - Step 01 - Setting up Limits Microservice
 - Step 02 - Creating a hard coded limits service
 - Step 03 - Enhance limits service to pick up configuration from application properties
