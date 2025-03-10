@@ -1,14 +1,21 @@
-### This project is a Spring Boot application aiming to uses some of Spring-Cloud functionalities and learning/utilizing tools mentioned below.
+## This project is a Spring Boot application that implements key Spring-Cloud functionalities and tools mentioned below.
 
 - Docker
+- Kubernetes
 - Spring Boot 2.4.x+ & Spring Cloud 2020.x+
-- Service Registry using Eureka Naming Server
-- Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon)
-- API Gateway with Spring Cloud Gateway (instead of Zuul)
-- Circuit Breaker with Resilience4j (instead of Hystrix)
-- Distributed Tracing with Zipkin
+  - Service Registry using Eureka Naming Server
+  - Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon)
+  - API Gateway with Spring Cloud Gateway (instead of Zuul)
+  - Circuit Breaker with Resilience4j (instead of Hystrix)
+  - Distributed Tracing with Zipkin
+  - Asynchronous Communication using Rabbit MQ
 
-Microservices with Spring Cloud
+### Following tutorials of following course
+![image](https://github.com/user-attachments/assets/0dfd8848-9d3c-4e5a-8086-fd3ca4db6b40)
+
+
+
+### Microservices with Spring Cloud
 - Step 01 - Setting up Limits Microservice
 - Step 02 - Creating a hard coded limits service
 - Step 03 - Enhance limits service to pick up configuration from application properties
@@ -40,7 +47,7 @@ Microservices with Spring Cloud
 - Step 29 - Exploring Rate Limiting and BulkHead Features of Resilience4j
 
 
-## Docker with Microservices using Spring Boot and Spring Cloud
+### Docker with Microservices using Spring Boot and Spring Cloud
 - Step 00 - Match made in Heaven - Docker and Microservices
 - Step 01 - Installing Docker - Docker
 - Step 02 - Your First Docker Use case - Deploy a Spring Boot Application
