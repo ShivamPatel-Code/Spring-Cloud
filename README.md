@@ -1,4 +1,4 @@
-## This project is a Spring Boot application that implements key Spring-Cloud functionalities and tools mentioned below.
+## This project is a Spring Boot application that aims to implement key Spring-Cloud functionalities and tools mentioned below.
 
 - Docker
 - Kubernetes
